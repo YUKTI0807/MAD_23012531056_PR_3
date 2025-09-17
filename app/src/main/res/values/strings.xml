@@ -1,0 +1,37 @@
+<resources>
+<!--    activity_main-->
+    <string name="weburl_">Web Url:</string>
+    <string name="www.google">www.login.com</string>
+    <string name="send">Send</string>
+    <string name="phoneNo_">Phone No:</string>
+    <string name="call">Call</string>
+    <string name="callLog_">Coll Log:</string>
+    <string name="callLog">Call Log</string>
+    <string name="gallery_">Gallery:</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera_">Camera:</string>
+    <string name="camera">camera</string>
+    <string name="alarm_">Alarm:</string>
+    <string name="alarm">Alarm</string>
+    <string name="login1_">Login:</string>
+    <string name="login1">Login</string>
+
+<!--    activity_login-->
+    <string name="emailid">Email Id</string>
+    <string name="pwd1">Password</string>
+    <string name="forgotpwd">Forgot Password?</string>
+
+<!--    activity_register-->
+    <string name="userFN">User full name</string>
+    <string name="ph.no">Phone number</string>
+    <string name="city">City</string>
+    <string name="email1">Email</string>
+    <string name="pwd2">Password</string>
+    <string name="cpwd">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="Doyouhaveacc">Do you have an account?</string>
+
+    <string name="app_name">MAD_23012531056_PR_3</string>
+    <string name="login">LOGIN</string>
+
+</resources>

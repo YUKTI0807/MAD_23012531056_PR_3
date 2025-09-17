@@ -1,6 +1,6 @@
 # Practical-3
 ## AIM:
-#Create an android application which demonstrates implicit & explicit Intent. 
+# Create an android application which demonstrates implicit & explicit Intent. 
 1. Make call to specific number
 2. Open specific URL
 3. Open Call Log

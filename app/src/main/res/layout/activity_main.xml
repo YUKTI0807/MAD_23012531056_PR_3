@@ -60,7 +60,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="text"
-        android:text="9999999999"
+        android:text="1234567890"
         tools:layout_editor_absoluteX="90dp"
         tools:layout_editor_absoluteY="90dp"
         app:layout_constraintBaseline_toBaselineOf="@id/textView2"

@@ -30,19 +30,20 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        findViewById<Button>(R.id.button6).setOnClickListener {
+        findViewById<Button>(R.id.btn7).setOnClickListener {
             val loginintent = Intent(this, LoginActivity::class.java)
             startActivity(loginintent)
         }
-        val dialButton: Button = findViewById(R.id.button)
-        val webButton: Button = findViewById(R.id.button7)
-        val gallerybutton:Button= findViewById(R.id.button3)
-        val cambutton:Button = findViewById(R.id.button4)
-        val alarmbutton:Button = findViewById(R.id.button5)
+
+        val webButton: Button = findViewById(R.id.btn1)
+        val dialButton: Button = findViewById(R.id.btn2)
+        val gallerybutton:Button= findViewById(R.id.btn4)
+        val cambutton:Button = findViewById(R.id.btn5)
+        val alarmbutton:Button = findViewById(R.id.btn6)
 
         dialButton.setOnClickListener {
             val dialIntent = Intent(Intent.ACTION_DIAL).apply {
-                data = Uri.parse("tel:99999999") // Replace with desired number or leave empty
+                data = Uri.parse("tel:1234567890") // Replace with desired number or leave empty
             }
             startActivity(dialIntent)
         }

@@ -21,3 +21,9 @@ CallLog.Calls.CONTENT_TYPE
 Add Drawable Resource in android project
 
 Add Activity in android Project
+
+<img width="475" height="839" alt="Screenshot 2025-09-28 220711" src="https://github.com/user-attachments/assets/f588b107-0603-40bd-9d7a-b76a688c64bc" />
+
+<img width="478" height="838" alt="Screenshot 2025-09-28 220727" src="https://github.com/user-attachments/assets/83074396-163b-4949-a9c2-a7182642bdb2" />
+
+<img width="472" height="840" alt="Screenshot 2025-09-28 220742" src="https://github.com/user-attachments/assets/d084b13b-06e6-4ad8-a000-9588dcabf53c" />

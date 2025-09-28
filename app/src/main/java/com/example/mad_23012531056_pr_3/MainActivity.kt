@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(loginintent)
         }
 
+
         val webButton: Button = findViewById(R.id.btn1)
         val dialButton: Button = findViewById(R.id.btn2)
         val gallerybutton:Button= findViewById(R.id.btn4)
